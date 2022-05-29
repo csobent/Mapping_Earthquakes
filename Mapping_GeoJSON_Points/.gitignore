@@ -1,0 +1,5 @@
+// Ignore config and DS store
+
+config.js
+
+.DS_Store
